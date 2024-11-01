@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UDSSL Time Tracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-27 11:37+0530\n"
+"PO-Revision-Date: 2013-10-27 11:37+0530\n"
+"Last-Translator: Praveen Dias <praveen.udssl@gmail.com>\n"
+"Language-Team: UDSSL <praveen.udssl@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;_;__;esc_attr__\n"
+"X-Poedit-Basepath: /media/www/udssltt/wp-content/plugins/udssl-time-tracker/\n"
+"X-Poedit-Language: Sinhalese\n"
+"X-Poedit-Country: SRI LANKA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-udssl-tt-admin.php:100
+msgid "Presets"
+msgstr "පෙරැසුම"
+
+#: admin/class-udssl-tt-admin.php:101
+#: admin/tabs/tab-settings.php:20
+msgid "Settings"
+msgstr "සැකසුම්"
+
+#: admin/class-udssl-tt-admin.php:102
+#: templates/template-time.php:261
+msgid "Tracker"
+msgstr "සටහන්කරු"
+
+#: admin/class-udssl-tt-admin.php:151
+#: admin/class-udssl-tt-admin.php:152
+#: inc/class-udssl-tt-components.php:38
+msgid "Time Tracker"
+msgstr "කාල සටහන්කරු"
+
+#: admin/class-udssl-tt-admin.php:168
+#: templates/template-payment.php:5
+#: templates/template-payment.php:15
+#: templates/template-payment.php:113
+#: templates/template-time.php:5
+#: templates/template-time.php:15
+msgid "UDSSL Time Tracker"
+msgstr "යූ.ඩී.එස්.එස්.එල් කාල සටහන්කරු"
+
+#: admin/tabs/tab-settings.php:25
+msgid "Configure UDSSL Time Tracker Settings"
+msgstr "යූ.ඩී.එස්.එස්.එල් කාල සටහන්කරු සැකසුම්"
+
+#: admin/tabs/tab-settings.php:33
+msgid "Block Visitors"
+msgstr "අමුත්තන් වලකන්න"
+
+#: admin/tabs/tab-settings.php:42
+msgid "Block non-logged in visitors"
+msgstr "ලොග් නොවුනවුන් වලකන්න"
+
+#: admin/tabs/tab-settings.php:50
+#: admin/tabs/tab-settings.php:56
+msgid "Save Settings"
+msgstr "සැකසුම් ස්ථිර කරන්න"
+
+#: admin/tabs/tab-settings.php:58
+#: admin/tabs/tab-presets.php:72
+msgid "Reset"
+msgstr "මුල් අවස්ථාව"
+
+#: admin/tabs/tab-presets.php:20
+msgid "Task Presets"
+msgstr "කාර්යය පෙරැසුම"
+
+#: admin/tabs/tab-presets.php:25
+msgid "Configure Presets"
+msgstr "පෙරැසුම් සකසන්න"
+
+#: admin/tabs/tab-presets.php:33
+msgid "Edit Preset"
+msgstr "පෙරැසුම වෙනස් කරන්න"
+
+#: admin/tabs/tab-presets.php:42
+msgid "Preset Name"
+msgstr "පෙරැසුම නාමය"
+
+#: admin/tabs/tab-presets.php:46
+msgid "Preset Category"
+msgstr "පෙරැසුම වර්ගය"
+
+#: admin/tabs/tab-presets.php:50
+msgid "Preset Project"
+msgstr "පෙරැසුම් ව්‍යාපෘතිය "
+
+#: admin/tabs/tab-presets.php:54
+msgid "Preset Task"
+msgstr "පෙරැසුම් කාර්යය "
+
+#: admin/tabs/tab-presets.php:62
+#: admin/tabs/tab-presets.php:68
+msgid "Save Preset"
+msgstr "පෙරැසුම ගබඩා කරන්න"
+
+#: admin/tabs/tab-presets.php:70
+msgid "Delete"
+msgstr "මකන්න"
+
+#: admin/tabs/tab-presets.php:80
+msgid "Current Presets"
+msgstr "වත්මන් පෙරැසුම්"
+
+#: inc/class-udssl-tt-components.php:39
+#: templates/template-payment.php:5
+#: templates/template-payment.php:15
+msgid "Payment Tracker"
+msgstr "ගෙවුම් සටහන්කරු"
+
+#: inc/class-udssl-tt-components.php:40
+msgid "Admin"
+msgstr "කළමනාකරු"
+
+#: inc/class-udssl-tt-components.php:41
+msgid "UDSSL"
+msgstr "යූ.ඩී.එස්.එස්.එල්"
+
+#: templates/template-payment.php:6
+msgid "Payment Tracker for WordPress"
+msgstr "වර්ඩ්ප්‍රෙස් ගෙවුම් සටහන්කරු"
+
+#: templates/template-payment.php:25
+#: templates/template-payment.php:42
+msgid "Time"
+msgstr "වෙලාව"
+
+#: templates/template-payment.php:26
+#: templates/template-payment.php:48
+#: templates/template-time.php:28
+#: templates/template-time.php:72
+msgid "Category"
+msgstr "වර්ගය"
+
+#: templates/template-payment.php:27
+#: templates/template-payment.php:55
+#: templates/template-time.php:29
+#: templates/template-time.php:79
+msgid "Project"
+msgstr "ව්‍යාපෘතිය"
+
+#: templates/template-payment.php:28
+#: templates/template-payment.php:62
+#: templates/template-time.php:30
+#: templates/template-time.php:86
+msgid "Task"
+msgstr "කාර්යය"
+
+#: templates/template-payment.php:29
+#: templates/template-payment.php:69
+msgid "Paid"
+msgstr "ගෙවුම"
+
+#: templates/template-payment.php:30
+msgid "Charge"
+msgstr "ගාස්තුව"
+
+#: templates/template-payment.php:31
+#: templates/template-payment.php:82
+msgid "Effective"
+msgstr "ලැබීම"
+
+#: templates/template-payment.php:39
+msgid "New Payment"
+msgstr "නව ගෙවීමක්"
+
+#: templates/template-payment.php:50
+#: templates/template-time.php:143
+#: templates/template-time.php:184
+msgid "Sample Category"
+msgstr "උදාහරණ  වර්ගය"
+
+#: templates/template-payment.php:57
+#: templates/template-time.php:177
+#: templates/template-time.php:192
+#: templates/template-time.php:226
+msgid "Sample Project"
+msgstr "උදාහරණ  ව්‍යාපෘතිය"
+
+#: templates/template-payment.php:64
+#: templates/template-time.php:219
+#: templates/template-time.php:234
+msgid "Sample Task"
+msgstr "උදාහරණ  කාර්යය"
+
+#: templates/template-payment.php:72
+msgid "Calculate"
+msgstr "ගණනය කරන්න"
+
+#: templates/template-payment.php:76
+msgid "Charges"
+msgstr "ගාස්තු"
+
+#: templates/template-payment.php:89
+msgid "Add Payment"
+msgstr "ගාස්තුව එකතු කරන්න"
+
+#: templates/template-time.php:5
+msgid "Track Your Time"
+msgstr "ඔබේ කාලය සටහන්කරගන්න"
+
+#: templates/template-time.php:6
+msgid "UDSSL Time Tracker from UDSSL"
+msgstr "යූ.ඩී.එස්.එස්.එල් කාල සටහන්කරු යූ.ඩී.එස්.එස්.එල් වෙතින්"
+
+#: templates/template-time.php:25
+#: templates/template-time.php:44
+msgid "Start Time"
+msgstr "ආරම්භක වෙලාව"
+
+#: templates/template-time.php:26
+#: templates/template-time.php:57
+msgid "End Time"
+msgstr "අවසාන වෙලාව"
+
+#: templates/template-time.php:27
+#: templates/template-time.php:66
+msgid "Duration"
+msgstr "කාලසීමාව"
+
+#: templates/template-time.php:31
+#: templates/template-time.php:93
+#: templates/template-time.php:154
+#: templates/template-time.php:196
+#: templates/template-time.php:238
+msgid "Description"
+msgstr "විස්තරය"
+
+#: templates/template-time.php:40
+msgid "New Time Slot"
+msgstr "නව කාල පරිචේදයක්"
+
+#: templates/template-time.php:60
+msgid "Add"
+msgstr "එකතු"
+
+#: templates/template-time.php:61
+msgid "Subtract"
+msgstr "අඩු"
+
+#: templates/template-time.php:62
+msgid "Now"
+msgstr "දැන්"
+
+#: templates/template-time.php:100
+msgid "Add Time Slot"
+msgstr "නව කාල පරිචේදයක් එකතු කරන්න"
+
+#: templates/template-time.php:123
+msgid "Time Data Charts"
+msgstr "කාල පරිචේද වගු"
+
+#: templates/template-time.php:124
+msgid "Generate Charts"
+msgstr "වගු පෙන්වන්න"
+
+#: templates/template-time.php:126
+msgid "Category Summary"
+msgstr "වර්ග සාරාංශය"
+
+#: templates/template-time.php:128
+msgid "Project Summary"
+msgstr "ව්‍යාපෘති සාරාංශය"
+
+#: templates/template-time.php:130
+msgid "Task Summary"
+msgstr "කාර්ය සාරාංශය"
+
+#: templates/template-time.php:133
+msgid "Add New Categories, Projects and Tasks"
+msgstr "නව තොරතුරු එකතු කරන්න"
+
+#: templates/template-time.php:137
+#: templates/template-time.php:141
+#: templates/template-time.php:182
+msgid "Categories"
+msgstr "වර්ග"
+
+#: templates/template-time.php:148
+#: templates/template-time.php:190
+#: templates/template-time.php:232
+msgid "Name"
+msgstr "නම"
+
+#: templates/template-time.php:150
+msgid "Sample Name"
+msgstr "උදාහරණ  නම"
+
+#: templates/template-time.php:156
+msgid "Sample Description"
+msgstr "උදාහරණ විස්තරය "
+
+#: templates/template-time.php:162
+msgid "Add Category"
+msgstr "වර්ගය එකතු කරන්න"
+
+#: templates/template-time.php:171
+#: templates/template-time.php:175
+#: templates/template-time.php:224
+msgid "Projects"
+msgstr "ව්‍යාපෘති"
+
+#: templates/template-time.php:198
+msgid "Sample Project Description"
+msgstr "උදාහරණ  ව්‍යාපෘති විස්තරය"
+
+#: templates/template-time.php:204
+msgid "Add Project"
+msgstr "ව්‍යාපෘතිය එකතු කරන්න"
+
+#: templates/template-time.php:213
+#: templates/template-time.php:217
+msgid "Tasks"
+msgstr "කාර්යයන්"
+
+#: templates/template-time.php:240
+msgid "Sample Task Description"
+msgstr "උදාහරණ  කාර්යය විස්තරය"
+
+#: templates/template-time.php:246
+msgid "Add Task"
+msgstr "කාර්යය එකතු කරන්න"
+
+#: templates/template-time.php:262
+msgid "Charts"
+msgstr "වගු"
+
+#: templates/template-time.php:263
+msgid "New Task"
+msgstr "නව කාර්යය"
+
+#: templates/template-time.php:264
+msgid "Menu"
+msgstr "මනුව"
+
+#~ msgid "Time Slot Presets"
+#~ msgstr "කාල ඡේද පෙරැසුම"

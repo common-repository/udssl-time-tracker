@@ -1,0 +1,110 @@
+body.time-tracker {
+  padding-bottom: 50px;
+}
+
+.time-tracker {
+  background-color: #f5f5f5;
+  font-size: 13px;
+}
+
+.t_start_label {
+  width: 150px;
+}
+
+.t_end_label {
+  width: 150px;
+}
+
+.btn {
+  margin-bottom: 10px;
+}
+
+#time-toolbar {
+  position: fixed;
+  bottom: 0;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  /* height: 50px !important; */
+  text-align: center;
+  padding: 15px 0 15px;
+  background-color: #fff;
+  -moz-box-shadow: -1px -1px 15px 3px #ccc;
+  -webkit-box-shadow: -1px -1px 15px 3px #ccc;
+  box-shadow: -1px -1px 15px 3px #ccc;
+}
+
+.udssl-unit {
+  margin-bottom: 10px;
+  color: inherit;
+  background-color: #f5f5f5;
+}
+
+#toolbar_clock,
+#toolbar_duration {
+  float: left;
+}
+
+#toolbar_duration {
+  padding: 0 10px;
+  color: #55f;
+}
+
+h3#toolbar_clock,
+h3#toolbar_duration {
+  font-size: 20px;
+  margin: 0 10px;
+}
+
+.btn {
+  background-color: #665151 !important;
+}
+
+.btn:hover {
+  color: #665151;
+  background-color: white !important;
+}
+
+.time-tracker .navbar {
+  font-size: 1.2rem;
+  background-color: #f5f5f5 !important;
+}
+
+.time-tracker h3 {
+  padding-bottom: 10px;
+}
+
+.time-tracker legend {
+  padding-bottom: 10px;
+}
+
+.time-tracker select {
+  border: none !important;
+}
+
+.time-tracker input {
+  border: none !important;
+  margin-bottom: 10px !important;
+}
+
+.time-tracker .table {
+  color: #665151 !important;
+}
+
+#footer-boxes {
+  margin-bottom: 50px;
+}
+
+#t_summary_area {
+  border: 1px dashed #665151;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+#t_summary_area h4 {
+  padding: 15px 0;
+}
+
+.tt-canvas {
+  display: none;
+}
